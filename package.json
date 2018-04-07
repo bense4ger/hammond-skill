@@ -1,0 +1,11 @@
+{
+  "name": "hammond-skill",
+  "version": "1.0.0",
+  "description": "A simple skill to annoy my mate Al",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
